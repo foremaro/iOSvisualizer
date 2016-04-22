@@ -7,7 +7,7 @@ PURPOSE OF PROJECT: This app will run ontop of iOS music player and provide musi
 
 VERSION or DATE: 4/16/2016
 
-HOW TO START THIS PROJECT:
+HOW TO START THIS PROJECT: 
 
 AUTHORS: Ron Foreman
 
